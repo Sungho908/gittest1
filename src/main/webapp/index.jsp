@@ -12,6 +12,8 @@
       <H1>깃 테스트</H1>
       <ol>
         <li>첫번쨰 변경 진행함.</li>
+        <li>첫번째 변경 후 add, commit 진행, push 안함.</li>
+        <li>두번째 변경 진행함.</li>
       </ol>
   </DIV> 
 </body>
