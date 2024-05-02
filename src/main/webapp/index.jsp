@@ -11,7 +11,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <ol>
-        </li>누룽지</li>
+        </li>누룽지: / 신발 추천 / </li>
       </ol>
   </DIV> 
 </body>
