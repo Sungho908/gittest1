@@ -11,8 +11,9 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <ol>
-        </li>누룽지: 밥</li>
+        <li>누룽지: 밥</li>
         <li>투투투: 투</li>
+        <li>삼삼삼: 삼</li>
       </ol>
   </DIV> 
 </body>
